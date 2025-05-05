@@ -1,4 +1,4 @@
-# Women Safety Analysis – Real-Time Scene Understanding
+# Women Safety Analysis
 
 ## Overview
 
