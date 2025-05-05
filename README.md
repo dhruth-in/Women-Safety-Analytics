@@ -1,12 +1,12 @@
 # Women Safety Analysis – Real-Time Scene Understanding
 
-## 📌 Overview
+## Overview
 
 **Women Safety Analysis** is a real-time computer vision system designed to enhance situational awareness and contribute to women’s safety. This project leverages **hand gesture recognition**, **gender and emotion detection**, and **people counting** using live camera input. It intelligently interprets the scene and offers critical insights to help identify potential threats or emergency gestures.
 
 ---
 
-## 🎯 Features
+## Features
 
 * ✋ **Hand Gesture Detection** – Identifies predefined hand gestures using MediaPipe and custom classifiers (e.g., Help, Stop, Peace).
 * 😊 **Emotion Recognition** – Detects emotions like Happy, Sad, Angry, Neutral using facial expressions.
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 * **Python**
 * **OpenCV**
@@ -27,45 +27,24 @@
 
 ---
 
-## 🛠️ Installation
+## Installation
 
-### 1. Clone the repository
+###  Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/women-safety-analysis.git
+git clone https://github.com/dhruth-in/women-safety-analysis.git
 cd women-safety-analysis
 ```
-
-### 2. Install Dependencies
-
-We recommend using a virtual environment.
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Download Models
-
-Ensure the following models are placed in the correct directories:
-
-* `gesture_classifier.model`
-* `emotion_model.h5`
-* `gender_model.h5`
-* MediaPipe uses pre-built models (auto-downloaded)
-
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 python main.py
 ```
-
-This will activate your webcam and start real-time analysis.
-
 ---
 
-## 🎯 How It Works
+## How It Works
 
 1. **Capture Input** – Webcam feed is processed frame-by-frame.
 2. **Face Detection** – Faces are detected using OpenCV or MediaPipe.
@@ -79,7 +58,7 @@ This will activate your webcam and start real-time analysis.
 
 ---
 
-## 🧪 Use Cases
+## Use Cases
 
 * Smart surveillance in public places
 * Emergency signal detection in isolated areas
@@ -87,6 +66,6 @@ This will activate your webcam and start real-time analysis.
 
 ---
 
-## 🙋‍♀️ Contributors
+## Author
 
-* **Your Name** – DHRUTHI N (https://github.com/dhruth-in)
+DHRUTHI N (https://github.com/dhruth-in)
