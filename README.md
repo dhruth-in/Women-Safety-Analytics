@@ -6,6 +6,12 @@
 
 ---
 
+## Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/1HEexXXYQFg/hqdefault.jpg)](https://youtu.be/1HEexXXYQFg)
+
+---
+
 ## Features
 
 * ✋ **Hand Gesture Detection** – Identifies predefined hand gestures using MediaPipe and custom classifiers (e.g., Help, Stop, Peace).
